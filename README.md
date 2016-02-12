@@ -1,8 +1,5 @@
 # Today I Learned
 
-- 2016-02-10:
-  - 
-
 - 2016-02-11:
   - one door closes, another door opens
   - don't just bet on the business outcome, also make sure you bet on the right winner who gets to that outcome (eg lyft vs sidecar as 2nd place in transportation/carshare)
@@ -11,4 +8,4 @@
 - 2016-02-12:
   - prioritize family. compounding effect of emotion and stress.
 
-- 2016-02-12:
+- 2016-02-13:
