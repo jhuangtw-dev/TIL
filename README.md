@@ -1,5 +1,13 @@
 # Today I Learned
 
+- 2017-08-27:
+  - py graph analysis
+    - networkx
+    - https://graph-tool.skewed.de/
+  - graph viz
+    - gephi
+    - sigma.js
+
 - 2016-02-11:
   - one door closes, another door opens
   - don't just bet on the business outcome, also make sure you bet on the right winner who gets to that outcome (eg lyft vs sidecar as 2nd place in transportation/carshare)
