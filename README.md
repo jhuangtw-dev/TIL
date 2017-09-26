@@ -17,3 +17,6 @@
   - prioritize family. compounding effect of emotion and stress.
 
 - 2016-02-13:
+
+bookmarking:
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html
