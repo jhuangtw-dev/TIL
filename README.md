@@ -1,5 +1,10 @@
 # Today I Learned
 
+- 2017-09-27:
+  - cube:
+    - https://stackoverflow.com/questions/37975227/what-is-the-difference-between-cube-and-groupby-operators
+    - https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-sql-multi-dimensional-aggregation.html
+    - https://docs.snowflake.net/manuals/sql-reference/constructs/group-by-cube.html
 - 2017-08-27:
   - py graph analysis
     - networkx
