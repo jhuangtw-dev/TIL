@@ -1,5 +1,11 @@
 # Today I Learned
 
+- 2017-09-29:
+  - NLP services
+    - el goog
+    - watson
+    - indico (https://indico.io/)
+
 - 2017-09-27:
   - cube:
     - https://stackoverflow.com/questions/37975227/what-is-the-difference-between-cube-and-groupby-operators
